@@ -7,6 +7,7 @@ function App() {
   return (
     <div className="App">
       <h1>Responsive Contact Info</h1>
+      <div>Blach</div>
     </div>
   );
 }
